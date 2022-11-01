@@ -1,0 +1,19 @@
+{
+  "name": "chat-app-css-challenge",
+  "version": "1.0.0",
+  "description": "![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-preview.jpg)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiRenzoV/CSS-Illustration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiRenzoV/CSS-Illustration/issues"
+  },
+  "homepage": "https://github.com/DiRenzoV/CSS-Illustration#readme"
+}
